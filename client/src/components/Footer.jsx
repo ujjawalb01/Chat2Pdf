@@ -22,10 +22,10 @@ export default function Footer() {
             <Link to="/about" className="hover:text-brand-900 transition-colors">
               About
             </Link>
-            <a href="#" className="hover:text-brand-900 transition-colors">
+            {/* <a href="#" className="hover:text-brand-900 transition-colors">
               Privacy
-            </a>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-brand-900 transition-colors">
+            </a> */}
+            <a href="https://github.com/ujjawalb01" target="_blank" rel="noreferrer" className="hover:text-brand-900 transition-colors">
               GitHub
             </a>
           </div>
